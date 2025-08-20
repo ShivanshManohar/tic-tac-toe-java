@@ -27,15 +27,15 @@ TicTacToeSimple.java   # Main program file
 
 Clone this repository
 
-git clone https://github.com/your-username/tic-tac-toe-java.git
+git clone https://github.com/ShivanshManohar/tic-tac-toe-java.git
 
 
 Open the project in any Java IDE (IntelliJ, Eclipse, VS Code) or terminal.
 
 Compile and run:
 
-javac TicTacToeSimple.java
-java TicTacToeSimple
+javac code.java
+java code
 
 🎯 Example Gameplay
  | | 
